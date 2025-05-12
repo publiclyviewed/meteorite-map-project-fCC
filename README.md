@@ -25,7 +25,7 @@ World map TopoJSON: [World Atlas 110m](https://cdn.jsdelivr.net/npm/world-atlas@
 
 1. Clone this repo or copy the files:
    ```bash
-   git clone https://github.com/yourusername/meteorite-map.git
+   git clone https://github.com/publiclyviewed/meteorite-map-project-fCC.git
    cd meteorite-map
    ```
 
